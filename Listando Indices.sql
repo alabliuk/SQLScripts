@@ -1,4 +1,4 @@
---Listando Indeces
+--Listando Indices
 
 SELECT
 t.NAME AS Tabela
